@@ -88,7 +88,7 @@ cd
 * Untuk Mengizinkan Root Dan Ubah Password Login di VPS Google Cloud Platform, Aws, Dan Lain-lain
    
 ```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/vpsroot.sh && bash vpsroot.sh
+  wget -O vpsroot.sh https://raw.githubusercontent.com/abrarilaviarsy/VPNTunnelServer/main/vpsroot.sh && bash vpsroot.sh
   
 ```
   
